@@ -2,6 +2,7 @@
 
 <p align="center">
   Experienced engineer building useful products.<br/>
+  Previously worked for years in the .NET ecosystem, now focused on the modern JavaScript stack.<br/>
   Learning, shipping and sharing the journey in public.
 </p>
 
