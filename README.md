@@ -5,6 +5,10 @@
   Learning, shipping and sharing the journey in public.
 </p>
 
+<p align="center">
+Building and sharing my journey in public — follow me at <a href="https://x.com/alicanbuild">@alicanbuild</a>
+</p>
+
 ---
 
 ### 🚀 What I'm Building
@@ -32,4 +36,6 @@
 ### ⚡ Fun Things
 - Dark mode everything  
 - Always experimenting & building  
-- Big believer in "build → learn → share"  
+- Big believer in "build → learn → share"
+
+  
